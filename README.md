@@ -35,6 +35,9 @@ Visualizations
 3. **Histograms**: Plots showing distributions of numerical features.
 4. **Confusion Matrix**: Visualization of true vs predicted classifications to assess model performance.
 
+Acknowledgments:
+- The dataset used is from Kaggle.
+- Thanks to the open-source community for their contributions and tools.
 
 ## Contributing:
 If you’d like to contribute to this project, please fork the repository and submit a pull request with your improvements or fixes.
